@@ -1,0 +1,160 @@
+{
+    "SearchResult": {
+        "Items": [
+            {
+                "ASIN": "B0CL6ZMTCG",
+                "BrowseNodeInfo": {
+                    "BrowseNodes": [
+                        {
+                            "ContextFreeName": "Barras de sonido",
+                            "DisplayName": "Barras de sonido",
+                            "Id": "1384102031",
+                            "IsRoot": false,
+                            "SalesRank": 1
+                        }
+                    ]
+                },
+                "DetailPageURL": "https://www.amazon.es/dp/B0CL6ZMTCG?tag=widitrade06-21&linkCode=osi&th=1&psc=1",
+                "Images": {
+                    "Primary": {
+                        "Large": {
+                            "Height": 500,
+                            "URL": "https://m.media-amazon.com/images/I/31vCubescXL._SL500_.jpg",
+                            "Width": 500
+                        }
+                    }
+                },
+                "ItemInfo": {
+                    "ByLineInfo": {
+                        "Brand": {
+                            "DisplayValue": "ULTIMEA",
+                            "Label": "Brand",
+                            "Locale": "es_ES"
+                        },
+                        "Manufacturer": {
+                            "DisplayValue": "ULTIMEA",
+                            "Label": "Manufacturer",
+                            "Locale": "es_ES"
+                        }
+                    },
+                    "Features": {
+                        "DisplayValues": [
+                            "Forma Versátil y Ahorro de Espacio - El diseño desmontable de la barra de sonido le permite montarla en una variedad de estilos para adaptarse a la disposición y el ambiente de su habitación. El diseño dividido ahorra espacio sin dejar de mejorar el campo sonoro.",
+                            "Sonido Más Alto y Rico: con 2 tweeters y woofers integrados, esta barra de sonido de 2,2 canales para TV reproduce un sonido equilibrado para disfrutar de graves más ricos y agudos más nítidos. Además, cuenta con una interfaz de subwoofer adicional que permite conectar un subwoofer activo externo (subwoofer no incluido).",
+                            "Experiencia de Sonido Personalizada: eleve su audio con 3 modos de ecualizador diseñados para música, películas y juegos. La exclusiva tecnología BassMX de Ultimea enriquece las frecuencias bajas, permitiendo ajustar los graves para conseguir unos graves retumbantes y con pulso. Todos estos modos son fácilmente accesibles con sólo pulsar un botón en los ajustes del ecualizador.",
+                            "Sonido Más Completo y Claro: la barra de sonido utiliza un chip DSP mejorado para reducir la estática de audio. Esto garantiza que cada palabra y cada sonido se escuchen exactamente como fueron concebidos.",
+                            "Conectividad Perfecta: la barra de sonido cuenta con opciones de conexión dual por cable e inalámbrica, incluidos los puertos ARC, óptico, AUX y USB (todos los cables incluidos). La tecnología Bluetooth 5.3 garantiza velocidades más rápidas y un alcance de cobertura de hasta 49 pies."
+                        ],
+                        "Label": "Features",
+                        "Locale": "es_ES"
+                    },
+                    "Title": {
+                        "DisplayValue": "ULTIMEA 2.2ch Barras de Sonido para TV, 2 en 1 Barra de Sonido Desmontable para TV, Bluetooth 5.3 TV Sound Bar, 3 Modos de Ecualización y Graves Ajustables Altavoces de TV, ARC/óptico/Aux, Apollo S40",
+                        "Label": "Title",
+                        "Locale": "es_ES"
+                    }
+                },
+                "Offers": {
+                    "Listings": [
+                        {
+                            "DeliveryInfo": {
+                                "IsFreeShippingEligible": true
+                            },
+                            "Id": "wHZpZrhJJDLTzR%2FgyXrK1IQIJRUQ472gr%2F%2FSA1vynsSZzs9BXaazhWbeZYB0SExBQZWFcPz0UzPdwpI8lFoSJ5bCgxR5%2Br%2F2OaObojX%2FuaFdZ23vs5Rb5RupBheTlCNiVbDENQeSBG6ihA3smApNci%2FNjvkXVzP%2BfaYCYE1a9lRSFrc6G%2FsI3iOi4CLyjRNV",
+                            "Price": {
+                                "Amount": 79.99,
+                                "Currency": "EUR",
+                                "DisplayAmount": "79,99 €",
+                                "Savings": {
+                                    "Amount": 50,
+                                    "Currency": "EUR",
+                                    "DisplayAmount": "50,00 € (38%)",
+                                    "Percentage": 38
+                                }
+                            },
+                            "ViolatesMAP": false
+                        }
+                    ]
+                }
+            },
+            {
+                "ASIN": "B07YV31M5P",
+                "BrowseNodeInfo": {
+                    "BrowseNodes": [
+                        {
+                            "ContextFreeName": "Barras de sonido",
+                            "DisplayName": "Barras de sonido",
+                            "Id": "1384102031",
+                            "IsRoot": false,
+                            "SalesRank": 2
+                        }
+                    ]
+                },
+                "DetailPageURL": "https://www.amazon.es/dp/B07YV31M5P?tag=widitrade06-21&linkCode=osi&th=1&psc=1",
+                "Images": {
+                    "Primary": {
+                        "Large": {
+                            "Height": 500,
+                            "URL": "https://m.media-amazon.com/images/I/41i9Re6dvGL._SL500_.jpg",
+                            "Width": 500
+                        }
+                    }
+                },
+                "ItemInfo": {
+                    "ByLineInfo": {
+                        "Brand": {
+                            "DisplayValue": "MAJORITY",
+                            "Label": "Brand",
+                            "Locale": "es_ES"
+                        },
+                        "Manufacturer": {
+                            "DisplayValue": "Majority",
+                            "Label": "Manufacturer",
+                            "Locale": "es_ES"
+                        }
+                    },
+                    "Features": {
+                        "DisplayValues": [
+                            "Calidad de sonido nítida La barra de sonido Bluetooth Bowfell fue diseñada aquí en el Reino Unido por nuestro grupo de expertos en audio. Majority Bowfell es una potente barra de sonido para TV con lo último en tecnología de audio, compatible con una amplia gama de artículos para el hogar como teléfono, TV, PC, computadora portátil, proyector, monitor, reproductor de Blu-ray o DVD. Nuestra calidad de sonido digital mejorada está diseñada y perfeccionada en Cambridge.",
+                            "POTENTES ALTAVOCES COMPACTOS: El Bowfell con subwoofer incorporado ofrece una experiencia de sonido cinematográfica excepcional. Los potentes altavoces de TV de 50 vatios pueden satisfacer a cualquier jugador ávido o simplemente mejorar su experiencia visual con un audio limpio y claro. Música, radio, juegos, películas, deportes en vivo: escuche el audio de la forma en que debe escucharse. Sistema de sonido para TV y barra de sonido Bluetooth.",
+                            "LLENO DE CARACTERÍSTICAS: Nuestra barra de sonido Majority está diseñada pensando en la facilidad de uso: simplemente conéctela y juegue a través de la amplia gama de conexiones. Conéctese a su televisor en un instante a través de la entrada óptica, escuche sus listas de reproducción directamente desde su teléfono a través de la última tecnología Bluetooth, conecte su reproductor de MP3 a la entrada AUX o simplemente conecte su dispositivo USB directamente al Bowfell. Ideal para música, cine.",
+                            "COMPACTO PERO PODEROSO: Bowfell es un dispositivo de barra de sonido de audio compacto y delgado que cabe en escritorios y se coloca cómodamente debajo de su televisor. Use los botones en el costado de la barra de sonido o el control remoto incluido para volverse verdaderamente inalámbrico y ajustar el volumen, la configuración del ecualizador, la fuente y más. Una barra de sonido ideal para TV o PC, llena tu espacio y sumérgete en el sonido cinematográfico en tu propia casa.",
+                            "AUDIO DE CONFIANZA: Majority es una marca de audio para el hogar con sede en Cambridge con un departamento de servicio al cliente experimentado y amigable. Estamos orgullosos de ofrecer una garantía extendida de 3 años en todos nuestros productos (se requiere registro) y una política de devolución sin complicaciones. Este paquete incluye 1 Bowfell, 1 control remoto, 1 cable RCA, 1 cable de alimentación, 1 cable AUX y un manual de usuario. Desarrollado y diseñado en Cambridge, Reino Unido."
+                        ],
+                        "Label": "Features",
+                        "Locale": "es_ES"
+                    },
+                    "Title": {
+                        "DisplayValue": "MAJORITY Bowfell Bluetooth Sound Bar for TV | 50 Watts Powerful 2.1 Stereo Soundbar | EQ Control, Bluetooth, Optical & RCA Connection with USB & AUX Playback | Remote Controlled",
+                        "Label": "Title",
+                        "Locale": "es_ES"
+                    }
+                },
+                "Offers": {
+                    "Listings": [
+                        {
+                            "DeliveryInfo": {
+                                "IsFreeShippingEligible": true
+                            },
+                            "Id": "wHZpZrhJJDLTzR%2FgyXrK1ANqwAtjijqVWwJ6zkmda1X9dNFTCj%2BdHM8uDpp5VL3%2FpgFkeDH2xG6Cb4Fkl19OH8yvAqQiGEaNp9bIH5pGiH4rSmR0vaYdzBqal50kzxCibFOr5NgOF1OKAUtsM2OPKdpRH2uT3SlVYarwE6oVAOucR0o0IOjkJg%3D%3D",
+                            "Price": {
+                                "Amount": 39.95,
+                                "Currency": "EUR",
+                                "DisplayAmount": "39,95 €",
+                                "Savings": {
+                                    "Amount": 10,
+                                    "Currency": "EUR",
+                                    "DisplayAmount": "10,00 € (20%)",
+                                    "Percentage": 20
+                                }
+                            },
+                            "ViolatesMAP": false
+                        }
+                    ]
+                }
+            }
+        ],
+        "SearchURL": "https://www.amazon.es/s?k=barras+de+sonido&rh=p_n_availability%3A-1&tag=widitrade06-21&linkCode=osi",
+        "TotalResultCount": 306
+    }
+}
